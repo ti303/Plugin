@@ -1,6 +1,2 @@
 # Plugin
-Ahihi đồ chó
-```
-Không cần phải nói
-mmmmm
-```
+Mục dích hỗ trợ cho plugin

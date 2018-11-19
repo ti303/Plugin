@@ -1,2 +1,2 @@
 # StarLogin
-![](/StarLogin.png)
+![GitHub Logo](/StarLogin.png)
